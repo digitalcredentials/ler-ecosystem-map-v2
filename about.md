@@ -67,7 +67,7 @@ title: LER Ecosystem Map - About
 				<a href="https://www.aspeninstitute.org/" target="_blank"><img src="./images/LOGO-ASPENUPSKILL .jpeg" loading="lazy" alt="Aspen Institute Logo"/></a>
 			</div>
 			<div class="col-sm-3 mx-auto">
-				<a href="https://www.uschamber.com/" target="_blank"><img src="./images/LOGO-USCHAMBER.webp" loading="lazy" alt="US Chamber of Commerce Foundation Logo"/></a>
+				<a href="https://www.uschamber.com/" target="_blank"><img src="./images/USCHAMBERFOUNDATION.svg" loading="lazy" alt="US Chamber of Commerce Foundation Logo"/></a>
 			</div>
 			<div class="col-sm-3 mx-auto">
 				<a href="https://tln.asu.edu/" target="_blank"><img src="./images/LOGO-TLN.webp" loading="lazy" alt="Trusted Learner Network Logo"/></a>
