@@ -42,7 +42,7 @@ title: LER Ecosystem Map - LERs Explained
             <img class="w-50" src="./images/LERs-explained-step01-sm.png" loading="lazy" alt="Step 1 icon"/>
         </div>
         <div class="col-sm-10">
-            <h4>Learner makes an achievement</h4>
+            <h3>Learner makes an achievement</h3>
             <p>Stewart (the <i>learner/earner</i>) is currently studying in a Licensed Practical Nursing Program at Amazing Community College. They have already completed prerequisite algebra and Fundamentals of Nursing I & II.</p>
         </div>
     </div>
