@@ -50,7 +50,10 @@ resources:
         url: https://workingnation.com/wp-content/uploads/2021/09/The-Words-of-the-Workforce-field-guide_Sept2021-1.pdf
       - title: Upskill America
         author: Aspen Institute
-        url: https://www.aspeninstitute.org/programs/upskill-america/    
+        url: https://www.aspeninstitute.org/programs/upskill-america/
+      - title: Exploring the Role of Digital Wallets and Digital Credentials in a Changing Job Market
+        author: Jobs for the Future
+        url: https://www.jff.org/wp-content/uploads/2024/08/JFF_Exploring-the-Role-of-Digital-Wallets-and-Digital-Credentials-in-a-Changing-Job-Market.pdf
   - name: On Learning and Advocacy
     sites:
       - title: 5 Steps to Unlocking a Skills-Based Future for Everyone
