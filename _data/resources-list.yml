@@ -73,6 +73,9 @@ resources:
       - title: Tear the Paper Ceiling
         author: Opportunity@Work
         url: https://www.tearthepaperceiling.org/
+      - title: Verifiable Credentials Wallets in a Skills-First Talent Marketplace
+        author: Jobs for the Future
+        url: https://www.jff.org/idea/verifiable-credentials-wallets-in-a-skills-first-talent-marketplace/
   - name: On Technology, Data Standards, and Solutions
     sites:
       - title: Credential Engine Learning and Employment Records Action Guide
