@@ -93,3 +93,10 @@ resources:
       - title: What’s the Key to Building Learning and Employment Records? Interoperability
         author: Jobs for the Future
         url: https://www.jff.org/whats-the-key-to-building-learning-and-employment-records-interoperability/
+      - title: Issuer Identity Registry Research Report: Designing Trust Infrastructure for W3C Verifiable Credentials Being Used for Learning and Employment Records
+        author: Digital Credentials Consortium & Credential Engine
+        url: https://digitalcredentials.mit.edu/docs/Credential-Engine-and-Digital-Credentials-Consortium_-Issuer-Identity-Registry-Research-Report.pdf
+      - title: Governance Framework for Issuer Identity Registries
+        author: Digital Credentials Consortium & Credential Engine 
+        url: https://digitalcredentials.mit.edu/docs/Governance-Framework-for-Issuer-Identity-Registries.pdf
+        
